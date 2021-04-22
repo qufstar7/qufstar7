@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qufstar7
 - 👀 I’m interested in ... java, javascript
 - 🌱 I’m currently learning ... web developing
-- 💞️ I’m looking to collaborate on ... any kind of company
+- 💞️ I’m looking to work at ... nice and cool company
 - 📫 How to reach me ... qufstar7@gmail.com
 
 <!---
