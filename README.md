@@ -9,7 +9,5 @@ look around my github repositories.
 to see algorithm repo [Algorithm](https://github.com/qufstar7/Algorithm)
 
 to see TIL repo [TIL](https://github.com/qufstar7/TIL)
-<!---
-qufstar7/qufstar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![qufstar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=qufstar7)](https://github.com/qufstar7/github-readme-stats)
