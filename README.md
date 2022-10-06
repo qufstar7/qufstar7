@@ -10,4 +10,4 @@ to see algorithm repo [Algorithm](https://github.com/qufstar7/Algorithm)
 
 to see TIL repo [TIL](https://github.com/qufstar7/TIL)
 
-[![qufstar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=qufstar7)](https://github.com/qufstar7/github-readme-stats)
+[![qufstar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=qufstar7&hode=issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/qufstar7/github-readme-stats)
